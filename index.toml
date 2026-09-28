@@ -173,11 +173,6 @@ hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
 metafile = true
 
 [[files]]
-file = "mods/create-ultimine.pw.toml"
-hash = "6adbe018fa82d595b6679edb045d66e266b031eca2bc1b6f243b1ae50bef92ab"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -310,11 +305,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
-metafile = true
-
-[[files]]
-file = "mods/paper-plane.pw.toml"
-hash = "5e6d0c58262496a9c5a966a57427dd4e917be84d1f0f4aa619790c8d00595e74"
 metafile = true
 
 [[files]]
