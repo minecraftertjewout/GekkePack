@@ -1,8 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "b6c85cb392f799ed932ffe8d6051f48a283a0df3f8674acf4f8d89341836e686"
+
+[[files]]
 file = "config/fml.toml"
-hash = "415eaa408ddfdeb1bfa0d825f9a148934b39c9b64fd8e166ad92fa51b43d60fd"
+hash = "ef31c8bd91347d8bb888785136e07ed070cd4fccd412ad69c74a6be9f7432299"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/simple-custom-early-loading.json"
+hash = "c7aaf6332aca2e309960b273c5c8ca45ea532374ca8214e9ecfb74a42e1d961c"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "icon.png"
