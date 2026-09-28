@@ -1,0 +1,13 @@
+name = "GekkePack"
+author = "GekkeWoutie"
+version = "v2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc9ea1f030605fd2afc84335928c76a978c81f29f011ee3326e090c309712945"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.252"

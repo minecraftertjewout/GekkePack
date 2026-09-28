@@ -1,0 +1,13 @@
+name = "Paper Plane"
+filename = "paper-plane-1.1.1+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ead9jIT4/versions/llv4wBCH/paper-plane-1.1.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "badd4d3daa7f7a36f1b24ec8414a854a2d8981d5a6038170952aa650653e37d551c4ea448bcd528ba6f2e1f3958982eea6f8f6745090396f981136b812b0d6f7"
+
+[update]
+[update.modrinth]
+mod-id = "Ead9jIT4"
+version = "llv4wBCH"
