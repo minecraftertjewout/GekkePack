@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fml.toml"
+hash = "415eaa408ddfdeb1bfa0d825f9a148934b39c9b64fd8e166ad92fa51b43d60fd"
+
+[[files]]
 file = "icon.png"
 hash = "a355de08aa644acc4512bc87469dfa636fde60b931e493e7dfceed26b30bc211"
 
