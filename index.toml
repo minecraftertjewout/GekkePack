@@ -401,3 +401,7 @@ metafile = true
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ed9eead31e5cf90f0d031464df5567c61e8a767782468a356868f82a086e6c4e"
