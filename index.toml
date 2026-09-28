@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "icon.png"
+hash = "a355de08aa644acc4512bc87469dfa636fde60b931e493e7dfceed26b30bc211"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
