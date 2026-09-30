@@ -9,7 +9,7 @@
       // example background
       // you can also specify multiple images from which a random one will be picked
       // "image": ["stellarview.png", "another.png", "yet_another.png"],
-      "image": "stellarview.png",
+      "image": "train3.png",
       // "display_conditions": [
       //   // a list of conditions, when any of the conditions is met, the element will be rendered
       //   // the condition result can be negated with "negate": true
@@ -63,7 +63,7 @@
     {
       // the loading text should be centered and poistioned at 60% from the top of the window
       // loading.png is also available if you want the text without animation
-      "image": "loading.apng",
+      "image": "uc7.png",
       // APNG texture can also be rendered based on the loading progress
       // if the APNG texture has 100 frames, each frame will be rendered at each percentage of the loading progress (so frame 50 will be rendered at 50% loading progress)
       // GAME_LOADING_IMAGE uses minecraft loading progress, note that this progress is AFTER the early loading
@@ -76,10 +76,10 @@
         "position_anchor": "BOTTOM_CENTER",
         "position_unit": "PERCENTAGE",
         "x": 50,
-        "y": 60,
+        "y": 40,
         "size_unit": "PERCENTAGE",
         // the loading text should be 25% of the window width
-        "width": 25
+        "width": 65
       }
     }
   ],
@@ -95,10 +95,10 @@
       // custom width and height is not supported
     }
   },
-  "performance_bar": true,
-  "fox": true,
-  "log_messages": true,
-  "forge_version": true
+  "performance_bar": false,
+  "fox": false,
+  "log_messages": false,
+  "forge_version": false
   // I dont think it would be nice to remove the mojang logo and change the branding, so I am not allowing it here
 
   // When specified, the window resolution will be fixed
