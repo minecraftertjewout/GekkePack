@@ -469,39 +469,39 @@ file = "options.txt"
 hash = "ed9eead31e5cf90f0d031464df5567c61e8a767782468a356868f82a086e6c4e"
 
 [[files]]
-file = "recourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_0.png"
+file = "resourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "c0456f13177921c86f46b01debea0e46b501771f6be40f64a83ceddbfda4ced1"
 
 [[files]]
-file = "recourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_1.png"
+file = "resourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_1.png"
 hash = "e991ea23d6184f0c50ed15b73949632665a1b259974736910f10e8b54bbd4ad3"
 
 [[files]]
-file = "recourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_2.png"
+file = "resourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_2.png"
 hash = "a5d96b48d12b576830dc0632eb9e0232ab7e3c4686a666bb3bae7fa3aff13aae"
 
 [[files]]
-file = "recourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_3.png"
+file = "resourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_3.png"
 hash = "9ed9a1f23cd3be8a53bfd878f19eddcb60f4269b89cac71defc355798c8a17d6"
 
 [[files]]
-file = "recourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_4.png"
+file = "resourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_4.png"
 hash = "6fcdb6a3f60f1b94f2afad0fac15bb3828a26af491a43589becc3914571a0cd3"
 
 [[files]]
-file = "recourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_5.png"
+file = "resourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_5.png"
 hash = "488efcb0ab4375be087c422bc53d007fd564bc2d598cacd287a2fb38c0b3724e"
 
 [[files]]
-file = "recourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+file = "resourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
 hash = "d4094b498c6ac96e36fb0706e433f7f26927f0e017ec00363f0d1e9b56e120a9"
 
 [[files]]
-file = "recourcepacks/Create Mod Panorama/pack.mcmeta"
+file = "resourcepacks/Create Mod Panorama/pack.mcmeta"
 hash = "54eb882d463e896d5aae2ebacdb4b589b6d2f7a6ad8d34ac7beb553529f2e3e8"
 
 [[files]]
-file = "recourcepacks/Create Mod Panorama/pack.png"
+file = "resourcepacks/Create Mod Panorama/pack.png"
 hash = "e991ea23d6184f0c50ed15b73949632665a1b259974736910f10e8b54bbd4ad3"
 
 [[files]]
