@@ -18,7 +18,11 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "config/simple-custom-early-loading.json"
-hash = "ca5dfef4c29325588d075212781c7b936334021fe53ad42fc4d2f119fb73a28a"
+hash = "76831d80904556a1a784c42b67abb6b43d76db370070747cf47604b6c2493a6e"
+
+[[files]]
+file = "config/simple-custom-early-loading/logo.png"
+hash = "7cc8e0439ee7d9c88f4a71f751a138c133b46d1aeee568be52cdd697f2b7bbed"
 
 [[files]]
 file = "config/simple-custom-early-loading/train2.png"
@@ -27,10 +31,6 @@ hash = "cd6968feae01ab5909b307fb96052f8579de24783c2a99f39a1a676cdc027bfe"
 [[files]]
 file = "config/simple-custom-early-loading/train3.png"
 hash = "73ef25a6ae479bdd272339c4f9e973664f76c4d78dfad529c78ac4f0e173a0c7"
-
-[[files]]
-file = "config/simple-custom-early-loading/uc7.png"
-hash = "484e965d271d2bdfb13585da46454a8b8ed1aaf0fc5fe6423361f1216cb32c99"
 
 [[files]]
 file = "config/sodium-extra.properties"

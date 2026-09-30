@@ -63,7 +63,7 @@
     {
       // the loading text should be centered and poistioned at 60% from the top of the window
       // loading.png is also available if you want the text without animation
-      "image": "uc7.png",
+      "image": "logo.png",
       // APNG texture can also be rendered based on the loading progress
       // if the APNG texture has 100 frames, each frame will be rendered at each percentage of the loading progress (so frame 50 will be rendered at 50% loading progress)
       // GAME_LOADING_IMAGE uses minecraft loading progress, note that this progress is AFTER the early loading
