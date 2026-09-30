@@ -1,0 +1,13 @@
+name = "Create Sifting"
+filename = "createsifter-1.21.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r018adCw/versions/Z5bTlA6P/createsifter-1.21.1-2.3.0.jar"
+hash-format = "sha512"
+hash = "45dc85de21ae015e9dbaa151972e7ee114e2135b667e58a33bde5ce48821b0bb03965b79fb4a9ca1a494ac6f16f45a0a47031b4c1a44d86eb1250e73fb290e77"
+
+[update]
+[update.modrinth]
+mod-id = "r018adCw"
+version = "Z5bTlA6P"

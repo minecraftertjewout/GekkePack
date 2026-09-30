@@ -128,6 +128,11 @@ hash = "24321b315a7cd5f164f65cf9b419629d1215cd7a081a98cde81e970a565785d5"
 metafile = true
 
 [[files]]
+file = "mods/create-food.pw.toml"
+hash = "b453da2f0b7acfd75d9bfb12f9dcad50211a0b25040c894f00736b913c18a339"
+metafile = true
+
+[[files]]
 file = "mods/create-framed.pw.toml"
 hash = "db683b65dc15a03dd6de2d34d5dc6ad0e3490744ced513a8cc584784ee9d3d8b"
 metafile = true
@@ -148,6 +153,11 @@ hash = "6e064a3988937e06dfa307c8c395c73461819f9135197bc30563c6f13d1f1da4"
 metafile = true
 
 [[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "9f6612c3600da90585aaac1020de82c7efaf8d6bfd07b59a56a4489b2e4dd81c"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
 metafile = true
@@ -155,6 +165,21 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "c0cb2bd911bed59edcc68e7c1e8e044acb51e791ff0d5f376138097def308cb6"
+metafile = true
+
+[[files]]
+file = "mods/create-shuffle-filter.pw.toml"
+hash = "2d2083fc8d2149da8c43947c9577f69dcd0d05abbddf7347e33e7bca3ca94e64"
+metafile = true
+
+[[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "464baff9adb918c7eb8fbfdb2efedeba5f1d3f6eebe87fc3fad5649e8e4ee18e"
+metafile = true
+
+[[files]]
+file = "mods/create-smart-bounds.pw.toml"
+hash = "7e6cdbf3b08697812e6954426b5e1aa8f3159d48e5b63913d2814a54f62d52dc"
 metafile = true
 
 [[files]]
@@ -235,6 +260,21 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "30d6875d934c57d5827f29f35ca77efc72a21df361ad3d578b93e7e137a39654"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "5d2c7666928f62d709f6890e20dd77de984837476ba181ef7f3c5e8acbe0a8d1"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "b9c7e06aaedf28d4f5fd4d002aa290b755bea76a9c2c0012a4a46efea1a3ef7d"
+metafile = true
+
+[[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "4c05f6744be64d47634fbd906b1502ec6ba7ce9becf473cc8db882922716b620"
 metafile = true
 
 [[files]]
@@ -323,6 +363,11 @@ hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "dda27add4d2cfc241d52a6825e016712d704c0b9925ab2ccbf779e8493f752ed"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "840eb517a83c586b9f543ab9781d4c8529b6fedf2d679f411577c7a583e50fe5"
 metafile = true
@@ -340,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
+metafile = true
+
+[[files]]
+file = "mods/sable_beyond.pw.toml"
+hash = "72817b94a481d4a023a4eb7a3007374a5682ae6ffccbf7dcb5142df2639bf553"
 metafile = true
 
 [[files]]
@@ -400,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "3fccf4472b525c3dad0d6611c891086f133a6fefc1d43c3ade0dedb13faac587"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "45eacb077412e52f365954d9fb8ddd58585eba1db841aacec84223e6cb0da28f"
 metafile = true
 
 [[files]]
