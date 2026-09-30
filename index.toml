@@ -378,11 +378,6 @@ hash = "840eb517a83c586b9f543ab9781d4c8529b6fedf2d679f411577c7a583e50fe5"
 metafile = true
 
 [[files]]
-file = "mods/power-grid.pw.toml"
-hash = "22cf5579fbc67af2ac84358af3c390c6235fabd6cd6cc3828021349b588f4bdb"
-metafile = true
-
-[[files]]
 file = "mods/rinlib.pw.toml"
 hash = "e696eb436a010e488b039ebf34faf8582422d55780eb41c313a8647a6165056e"
 metafile = true
