@@ -79,7 +79,7 @@
         "y": 40,
         "size_unit": "PERCENTAGE",
         // the loading text should be 25% of the window width
-        "width": 65
+        "width": 10
       }
     }
   ],

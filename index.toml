@@ -18,7 +18,7 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "config/simple-custom-early-loading.json"
-hash = "76831d80904556a1a784c42b67abb6b43d76db370070747cf47604b6c2493a6e"
+hash = "69cbee49b2d46c1badcde171c3894b32501217032d63f8a8cd8a741ac8151cd4"
 
 [[files]]
 file = "config/simple-custom-early-loading/logo.png"
