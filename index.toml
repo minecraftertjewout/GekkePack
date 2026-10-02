@@ -140,6 +140,11 @@ hash = "24321b315a7cd5f164f65cf9b419629d1215cd7a081a98cde81e970a565785d5"
 metafile = true
 
 [[files]]
+file = "mods/create-fluid.pw.toml"
+hash = "c923e2f3c07aa6bb733ecbfdeb40ebcc5706dc24fe57d3f96bdbf0008899e7b7"
+metafile = true
+
+[[files]]
 file = "mods/create-food.pw.toml"
 hash = "b453da2f0b7acfd75d9bfb12f9dcad50211a0b25040c894f00736b913c18a339"
 metafile = true
