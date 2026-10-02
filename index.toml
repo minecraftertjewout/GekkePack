@@ -475,10 +475,6 @@ hash = "45eacb077412e52f365954d9fb8ddd58585eba1db841aacec84223e6cb0da28f"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "ed9eead31e5cf90f0d031464df5567c61e8a767782468a356868f82a086e6c4e"
-
-[[files]]
 file = "resourcepacks/Create Mod Panorama/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "c0456f13177921c86f46b01debea0e46b501771f6be40f64a83ceddbfda4ced1"
 
